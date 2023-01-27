@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/Exampes/divide/bin/Debug/net6.0/divide
+/Users/a-.-/Desktop/Exampes/divide/bin/Debug/net6.0/divide.deps.json
+/Users/a-.-/Desktop/Exampes/divide/bin/Debug/net6.0/divide.runtimeconfig.json
+/Users/a-.-/Desktop/Exampes/divide/bin/Debug/net6.0/divide.dll
+/Users/a-.-/Desktop/Exampes/divide/bin/Debug/net6.0/divide.pdb
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.AssemblyInfo.cs
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.dll
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/refint/divide.dll
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.pdb
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/divide.genruntimeconfig.cache
+/Users/a-.-/Desktop/Exampes/divide/obj/Debug/net6.0/ref/divide.dll
