@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/Exampes/base/bin/Debug/net6.0/base
+/Users/a-.-/Desktop/Exampes/base/bin/Debug/net6.0/base.deps.json
+/Users/a-.-/Desktop/Exampes/base/bin/Debug/net6.0/base.runtimeconfig.json
+/Users/a-.-/Desktop/Exampes/base/bin/Debug/net6.0/base.dll
+/Users/a-.-/Desktop/Exampes/base/bin/Debug/net6.0/base.pdb
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.AssemblyInfo.cs
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.dll
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/refint/base.dll
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.pdb
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/base.genruntimeconfig.cache
+/Users/a-.-/Desktop/Exampes/base/obj/Debug/net6.0/ref/base.dll
