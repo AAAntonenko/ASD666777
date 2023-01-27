@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.AssemblyInfo.cs
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/Exampes/if_else/bin/Debug/net6.0/if_else
+/Users/a-.-/Desktop/Exampes/if_else/bin/Debug/net6.0/if_else.deps.json
+/Users/a-.-/Desktop/Exampes/if_else/bin/Debug/net6.0/if_else.runtimeconfig.json
+/Users/a-.-/Desktop/Exampes/if_else/bin/Debug/net6.0/if_else.dll
+/Users/a-.-/Desktop/Exampes/if_else/bin/Debug/net6.0/if_else.pdb
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.dll
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/refint/if_else.dll
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.pdb
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/if_else.genruntimeconfig.cache
+/Users/a-.-/Desktop/Exampes/if_else/obj/Debug/net6.0/ref/if_else.dll
