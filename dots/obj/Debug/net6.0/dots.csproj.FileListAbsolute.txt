@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/Exampes/dots/bin/Debug/net6.0/dots
+/Users/a-.-/Desktop/Exampes/dots/bin/Debug/net6.0/dots.deps.json
+/Users/a-.-/Desktop/Exampes/dots/bin/Debug/net6.0/dots.runtimeconfig.json
+/Users/a-.-/Desktop/Exampes/dots/bin/Debug/net6.0/dots.dll
+/Users/a-.-/Desktop/Exampes/dots/bin/Debug/net6.0/dots.pdb
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.AssemblyInfo.cs
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.dll
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/refint/dots.dll
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.pdb
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/dots.genruntimeconfig.cache
+/Users/a-.-/Desktop/Exampes/dots/obj/Debug/net6.0/ref/dots.dll
